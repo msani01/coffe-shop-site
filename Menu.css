@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-image : linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(PIC1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.divsize li{
+    display: inline-block;
+    color: beige;
+    text-decoration: none;
+    padding: 5px 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-right: 0%;
+    list-style: none;
+    margin-top: 30px;
+    padding-left: 5%;
+    font-size: large;
+} 
+
+.name{
+    padding: 5px 15px;
+}
+
+.divitem ul li{
+    display: inline-block;
+    color: beige;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-right: 0%;
+    list-style: none;
+    margin-top: 30px;
+    padding-left: 4%; 
+}
+
+.U1{
+    padding-left: 0.1%;
+}

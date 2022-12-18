@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    width: 1170px;
+    margin: auto;
+}
+
+body{
+    background-image : linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(PIC1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+} 
+
+.form {
+    color: beige;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}  
+
+.menu li{
+    display: inline-block;
+}  
+
+.menu li a{
+    color: beige;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+
+.menu li a:hover{
+    background: rgb(255, 255, 255);
+    color: #333;
+}
+
+textarea{
+    width: 400px;
+    height: 100px;
+}
+
+.h11{
+    text-align: center;
+    color: beige;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border: width 10px;
+    border-color: beige;
+    width: 10%;
+    background-color: none;
+    margin-left: 45%;
+}
